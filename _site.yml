@@ -6,9 +6,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "M.E.A.L."
-      href: "posts/meal/index.html"
+      href: meal.html
     - text: "About Me"
-      href: "posts/about/index.html"
+      href: about.html
     - icon: fab fa-github
       href: https://github.com/Lucien-Marchand/Lucien_blog.git
 base_url: Lucien-Marchand.github.io/Lucien_blog/

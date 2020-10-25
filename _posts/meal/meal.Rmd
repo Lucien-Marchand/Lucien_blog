@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
+  - name: "Marchand Lucien" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
@@ -27,5 +27,4 @@ Here are a few examples (some of them are based on examples I've read on blogs s
 - Oct. 30th: I decided to change my device language into English. Now my smartphone, PS4 and Ipad are all configured in English.
 
 The bottom line is: have fun! It's a very important component when learning a new language.
-
 
