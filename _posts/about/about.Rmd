@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 author: "Lucien Marchand"
-name: "Prehistoric Animals : How Could They Be So Huge" 
+name: "Prehistoric Animals" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
