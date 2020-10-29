@@ -14,6 +14,7 @@ navbar:
 base_url: Lucien-Marchand.github.io/Lucien_blog/
 collections:
     posts:
+      disqus: lucien-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
