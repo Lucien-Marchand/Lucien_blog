@@ -1,7 +1,7 @@
 ---
-title: "Article 1"
+title: "Article 1 : Megalodon's hugeness was 'off-the-scale', even for a shark"
 description: |
-  A short description of the post.
+  Let's dive through the greatest sharks that ever lived.
 author:
   - name: Lucien Marchand
     url: {}
@@ -15,8 +15,26 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.livescience.com/megalodon-big-for-a-shark.html?fbclid=IwAR1XNX8S9wUDIqgcC2lQi2PZRXZu6CzT86kE3qG548TLz-Gc1OtNsChtOrk]
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Published on The 5th of October
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Word count: 720 words
+
+# VOCABULARY
+| Word from the text | Synonym/definitionin English | French translation |
+|------------------- |----------------------------- |--------------------|
+|Among | Inside of | Parmi
+|Relatives | Cousins | Parents |
+|Girth | Mass | Corpulence |
+|Outlier | Different from normal | Cas particulier |
+|substantially | a lot | considérablement |
+|pipsqueaks | little person unimportant | Avorton, demi-portion |
+|whopping | very big | énorme |
+|plentiful | abundant | abondant |
+|rather than | instead | plutôt |
+|scarce | rare | rare |
+|save for | except for | Sauf pour |
+|Bearing |
 

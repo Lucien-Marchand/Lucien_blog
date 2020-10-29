@@ -12,7 +12,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-26T17:56:13+01:00"
+    "last_modified": "2020-10-28T15:11:54+01:00"
   },
   {
     "path": "posts/about/",
@@ -27,7 +27,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-26T11:29:56+01:00"
+    "last_modified": "2020-10-28T15:11:54+01:00"
   },
   {
     "path": "posts/meal/",
@@ -45,12 +45,12 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-10-26T11:29:00+01:00"
+    "last_modified": "2020-10-28T15:11:56+01:00"
   },
   {
     "path": "posts/2020-10-25-article-1/",
-    "title": "Article 1",
-    "description": "A short description of the post.",
+    "title": "Article 1 : Megalodon's hugeness was 'off-the-scale', even for a shark",
+    "description": "Let's dive through the greatest sharks that ever lived.",
     "author": [
       {
         "name": "Lucien Marchand",
@@ -60,6 +60,6 @@
     "date": "2020-10-25",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-26T11:29:34+01:00"
+    "last_modified": "2020-10-29T19:31:23+01:00"
   }
 ]
