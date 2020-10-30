@@ -33,8 +33,24 @@ Word count: 720 words
 |pipsqueaks | little person unimportant | Avorton, demi-portion |
 |whopping | very big | énorme |
 |plentiful | abundant | abondant |
-|rather than | instead | plutôt |
+|rather than | instead | plutôt que |
 |scarce | rare | rare |
 |save for | except for | Sauf pour |
-|Bearing |
+|Bearing (to bear) | | Porter |
+|behavior | attitude | comportement |
+|Hatching (to hatch) | to come out of an egg | éclore |
+|siblings | Brothers and sisters | frères et soeurs |
+|to dwarf | To be bigger than | Faire paraître petit |
+|gap | break | fossé |
+|remain | continue to be | rester |
+|to unsettle | to disturb | Perturber |
 
+# ANALYSIS TABLE ABOUT THE STUDY
+|             |             |
+|-------------|-------------|
+|Researchers ?|Kenshu Shimada|
+|Published in ? When ?|October the 5th in the journal Historical Biology, Originally published on Live Science.|
+|General topic|The Megalodon (Otodus megalodon) had a whopping size compared with the other sharks, witch could reach up to 15 meters (against 6m for the great white shark).|
+|Procedure/What was examined|To evaluate how tall was a prehistoric shark, we can't use fossils of their body because shark skeletons are made of cartilage witch fossilize scarcely ever. However, fossilized tooth are plentiful and the scientifics Shimada and his colleagues developed  a new tool for calculating body length : an equation representing the actual relationship between body length and tooth size in lamniforms.|
+|Conclusions/Discovery|The scientists found that many extinct lamniform sharks were quite large and each of it's genera and held at least one shark species that was more than 6m in length. However, most of these lamniform didn't grow more than 7 meters in length, but Odotus megalodon could reach 15m in length, witch means that there is a huge gap between the Meg and the other lamniforms.|
+|Remaining questions|Even if we think that the shark's supersize can be fuel by their reproductive strategy (involving that the early-hatching embryos eat siblings' eggs), we still don't know why the Meg could be so huge. Moreover, causes of the extinct of this shark still remain unsettled.|
