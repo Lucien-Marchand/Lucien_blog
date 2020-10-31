@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/Lucien-Marchand/Lucien_blog.git
-base_url: Lucien-Marchand.github.io/Lucien_blog/
+base_url: https://Lucien-Marchand.github.io/Lucien_blog/
 collections:
     posts:
       disqus: lucien-blog
