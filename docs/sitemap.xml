@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>Lucien-Marchand.github.io/Lucien_blog/</loc>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/</loc>
     <lastmod>2020-10-30T14:49:35+01:00</lastmod>
   </url>
   <url>
-    <loc>Lucien-Marchand.github.io/Lucien_blog/posts/2020-10-26-article-2/</loc>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/posts/2020-12-04-graphicdescription/</loc>
+    <lastmod>2020-12-04T20:06:30+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/posts/2020-10-26-article-2/</loc>
     <lastmod>2020-10-28T15:11:54+01:00</lastmod>
   </url>
   <url>
-    <loc>Lucien-Marchand.github.io/Lucien_blog/posts/about/</loc>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/posts/about/</loc>
     <lastmod>2020-10-28T15:11:54+01:00</lastmod>
   </url>
   <url>
-    <loc>Lucien-Marchand.github.io/Lucien_blog/posts/meal/</loc>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/posts/meal/</loc>
     <lastmod>2020-10-28T15:11:56+01:00</lastmod>
   </url>
   <url>
-    <loc>Lucien-Marchand.github.io/Lucien_blog/posts/2020-10-25-article-1/</loc>
-    <lastmod>2020-10-31T19:48:46+01:00</lastmod>
+    <loc>https://Lucien-Marchand.github.io/Lucien_blog/posts/2020-10-25-article-1/</loc>
+    <lastmod>2020-11-08T15:01:31+01:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,33 @@
+---
+title: "graphic_description"
+description: |
+  Short analysis of a graphic.
+categories:
+  Data Sciences I
+author:
+  - name: Lucien Marchand
+    url: {}
+date: 12-04-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r importation}
+zooplankton <- read("zooplankton", package = "data.io")
+```
+
+This article will introduce the data "zooplankton" wich shows differences between 1262 subjects of 20 variables, studying the different classes of zooplankton.
+
+```{r graphic}
+chart(zooplankton, size ~ class %fill=% class) +
+  geom_violin() +
+  coord_flip()
+```
+
+We can see that there is a big size diversity between classes with classes like Protist or Cladoceran wich have little diversity of size (above 1mm each) and other like Cnidarian wich ave a huge diversity with a minimum at less than 1mm and a maximum of 7 mm.
