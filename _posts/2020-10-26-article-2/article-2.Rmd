@@ -1,7 +1,7 @@
 ---
-title: "Article 2"
-description: |
-  A short description of the post.
+title: "Article 2 : Dolphins and whales separately evolved the same speedy swimming bones."
+description: 
+  The dolphins' and whales' speedy power results from a convergent evolution instead of a common ancestor.
 author:
   - name: Lucien Marchand
     url: {}
@@ -15,4 +15,36 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.newscientist.com/article/2248310-dolphins-and-whales-separately-evolved-the-same-speedy-swimming-bones/?fbclid=IwAR36RI2VL8lOOOqiaBv-tmt8PuMNT99rsa7g4v4_01TKKxcNS3eLKi78opk]
 
+Published on The 9th of July 2020
+
+Word count: 320 words
+
+# VOCABULARY
+| Word from the text | Synonym/definition in English | French translation |
+|------------------- |----------------------------- |--------------------|
+|Tusk | long teeth | défense |
+|to lack | do not have | manquer de |
+|feature | characteristic | caractéristique |
+|to stick | to thrust | enfoncer, planter |
+|to ram | to hit hard | percuter|
+|straight out|direct|tout droit|
+|narrow | not wide | étroit|
+|(tail) fluke | part of whale's tail | nageoire caudale|
+|flipper| limb of whale| nageoire|
+|stiff|rigid|rigide|
+|to assume | to suppose| supposer|
+|to prey on| to hunt| chasser (prédateur)|
+|pod | group of dolphins or whales| groupe, pods ou gousse de dauphins ou baleines|
+
+# ANALYSIS TABLE ABOUT THE STUDY
+|             |             |
+|-------------|-------------|
+|Researchers ?|Robert Boessenecker|
+|Published in ? When ?|Published on July the 9th, 2020 in Current Biology|
+|General topic|A fossil of dolphin's and whale's common ancestor shows that their common features come from convergent evolution.|
+|Procedure/What was examined|A 24-million-year-old fossil shows that the common ancestor of dolphins and whales lacked features features common to modern dolphins and baleen whales. All the ancestors known before had these features so it was assumed that the both lineages' common ancestor would have them too|
+|Conclusions/Discovery|Fossils show that such characteristics come from convergent evolution instead of an older ancestor's features.|
+|Remaining questions||

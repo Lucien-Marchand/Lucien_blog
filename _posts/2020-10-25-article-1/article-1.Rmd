@@ -18,12 +18,12 @@ knitr::opts_chunk$set(echo = FALSE)
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
 Source of the article : [https://www.livescience.com/megalodon-big-for-a-shark.html?fbclid=IwAR1XNX8S9wUDIqgcC2lQi2PZRXZu6CzT86kE3qG548TLz-Gc1OtNsChtOrk]
 
-Published on The 5th of October
+Published on The 5th of October 2020
 
 Word count: 720 words
 
 # VOCABULARY
-| Word from the text | Synonym/definitionin English | French translation |
+| Word from the text | Synonym/definition in English | French translation |
 |------------------- |----------------------------- |--------------------|
 |Among | Inside of | Parmi
 |Relatives | Cousins | Parents |
