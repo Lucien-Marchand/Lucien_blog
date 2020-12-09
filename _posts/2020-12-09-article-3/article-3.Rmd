@@ -1,0 +1,36 @@
+---
+title: "New study confirms the power of Deinosuchus and its 'teeth the size of bananas'"
+description: |
+  A short description of the post.
+author:
+  - name: Lucien Marchand
+    url: {}
+date: 12-09-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.sciencedaily.com/releases/2020/08/200810141002.htm?fbclid=IwAR1g83Akera8DbkBzrG3Xb5crAQOyOoheO_rKt-8Lte94H1u5IfQ-bTjWgA]
+
+Source of the original study : [https://www.tandfonline.com/doi/full/10.1080/02724634.2020.1767638?scroll=top&needAccess=true]
+
+Published on The 10th of August 2020
+
+Word count: 532 words
+
+# VOCABULARY
+| Word from the text | Synonym/definition in English | French translation |
+|------------------- |----------------------------- |--------------------|
+|
+
+# ANALYSIS TABLE ABOUT THE STUDY
+|             |             |
+|-------------|-------------|
+|Researchers ?|Adam P. Cossette & Christopher A. Brochu|
+|Published in ? When ?|Originally published in the Journal of Vertebrate Paleontology, Received 10 Oct 2018, Accepted 28 Jan 2020, Published online: 29 Jul 2020|
+|General topic||
+|Procedure/What was examined||
+|Conclusions/Discovery||
+|Remaining questions||

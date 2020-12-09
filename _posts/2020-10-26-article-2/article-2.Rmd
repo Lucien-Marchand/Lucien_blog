@@ -47,4 +47,4 @@ Word count: 320 words
 |General topic|A fossil of dolphin's and whale's common ancestor shows that their common features come from convergent evolution.|
 |Procedure/What was examined|A 24-million-year-old fossil shows that the common ancestor of dolphins and whales lacked features features common to modern dolphins and baleen whales. All the ancestors known before had these features so it was assumed that the both lineages' common ancestor would have them too|
 |Conclusions/Discovery|Fossils show that such characteristics come from convergent evolution instead of an older ancestor's features.|
-|Remaining questions||
+|Remaining questions|No remaining question in the article|
