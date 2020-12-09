@@ -1,7 +1,7 @@
 ---
 title: "New study confirms the power of Deinosuchus and its 'teeth the size of bananas'"
 description: |
-  A short description of the post.
+  Alongside dinosaurs lived a giant crocodylian which was able to prey on them.
 author:
   - name: Lucien Marchand
     url: {}
@@ -23,14 +23,37 @@ Word count: 532 words
 # VOCABULARY
 | Word from the text | Synonym/definition in English | French translation |
 |------------------- |----------------------------- |--------------------|
-|
+|entitled | called | intitulé|
+|to range| vary within limits| varrier|
+|shallow |not deep| peu profond|
+| present-day |current| actuel|
+|though|however|cependant|
+|genera (plural of genus)|(biological subdivision)|genre|
+|to outweigh| be heavier than|être plus lourd que|
+|alongside |next to|à coté de|
+|remains of|what is left of |des restes de|
+|to shed light on|to explain|éclaircir|
+|edge|extremity| bord|
+|given that|seeing that|vu que|
+|in spite of|despite|malgré|
+|snout|animal's nose|museau|
+|broad|wide|large|
+|inflated |filled with air or gas|gonflé|
+|tip|end|extrémité|
+
 
 # ANALYSIS TABLE ABOUT THE STUDY
 |             |             |
 |-------------|-------------|
 |Researchers ?|Adam P. Cossette & Christopher A. Brochu|
 |Published in ? When ?|Originally published in the Journal of Vertebrate Paleontology, Received 10 Oct 2018, Accepted 28 Jan 2020, Published online: 29 Jul 2020|
-|General topic||
-|Procedure/What was examined||
-|Conclusions/Discovery||
-|Remaining questions||
+|General topic|Description of the Deinosuchus, known to be one of the largest crocodylian genera that ever lived|
+|Procedure/What was examined| - Dinosaurs' bones and turtles' shells with bite marks. 
+- snout inflated at the front around the nose like any other crocodylian.
+- skull.
+- large holes present at the tip of the snout.|
+|Conclusions/Discovery|- Present-day crocodylians aren't living fossils but they evolved.
+- Deinosuchus seems to have been an opportunistic predator and everything on its habitat was on its menu.|
+|Remaining questions|- The reason for its enlarged nose is unknown.
+- The reason for its extinction remains unknown. 
+- We don't know what their two large holes at the tip of the snout were for.|
