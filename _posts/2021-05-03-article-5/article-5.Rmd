@@ -1,7 +1,7 @@
 ---
 title: "Article 5 : Older than expected: Teeth reveal the origin of the tiger shark"
 description: |
-  A short description of the post.
+  The tiger shark seems to be older than previously thought.
 author:
   - name: Lucien Marchand
     url: {}
@@ -15,7 +15,31 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.sciencedaily.com/releases/2021/03/210324094723.htm]
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Published on the 24th of March 2021.
 
+Word count: 370 words
+
+# VOCABULARY
+| Word from the text | Synonym/definition in English | French translation                     |
+| ------------------ | ----------------------------- | -------------------------------------- |
+| apex predator      | highest animal in food chain  | superprédateur                         |
+| nonetheless        | despite this                  | néanmoins                              |
+| insight            | information                   | information                            |
+| serrated           | with a jagged edge            | dentelé                                |
+| nevertheless       | however                       | toutefois                              |
+| to assume          | to suppose                    | supposer                               |
+| ca.                | abr : circa = about (+ date)  | vers (une date)                        |
+| to originate       | to begin, to appear           | apparaître, tirer son origine (de qch) |
+
+# ANALYSIS TABLE ABOUT THE STUDY
+|                             |                                                                                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?               | Julia Türtscher and her team : Faviel A. López-Romero, Patrick L. Jambura, René Kindlimann, David J. Ward, Jürgen Kriwet                                                  |
+| Published in ? When ?       | Paleobiology, 24 March 2021                                                                                                                                               |
+| General topic               | Recherches à propos du requin tigre                                                                                                                                       |
+| Procedure/What was examined | Fossilized tooth can be used to determine tiger sharks species and age                                                                                                    |
+| Conclusions/Discovery       | Only 5 out of 22 known species  represent valid species and the modern tiger shark seems to be 13.8 million years-old instead of the 5.3 million years-old thought before |
+| Remaining questions         | None mentioned in the article                                                                                                                                             |

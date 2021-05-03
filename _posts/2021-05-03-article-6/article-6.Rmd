@@ -1,0 +1,50 @@
+---
+title: "Article 6 : Unusual fossil reveals last meal of prehistoric pollinator"
+description: |
+  An amber fossil of beetle helps to understand helps to understand early Cretaceous pollination.
+author:
+  - name: Lucien Marchand
+    url: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.sciencedaily.com/releases/2021/04/210412142738.htm]
+
+Published on the 12th of April 2021.
+
+Word count: 630 words
+
+# VOCABULARY
+| Word from the text    | Synonym/definition in English | French translation  |
+| --------------------- | ----------------------------- | ------------------- |
+| beetle                | winged insect                 | coléoptère          |
+| to shed light on sth. | to clarify                    | éclairer, clarifier |
+| to unearth            | to dscover                    | découvrir           |
+| solely                | only                          | seulement           |
+| Besides               | also                          | en plus             |
+| insight               | knowledge                     | aperçu              |
+| surrounding           | all around                    | qui entoure         |
+| genuine               | real                          | véritable           |
+| orchard               | fruit trees                   | verger              |
+| unparalleled          | unmatched                     | inégalé             |
+| to take off           | fig : to enjoy sudden success | prendre son envol   |
+| scarce                | lacking                       | rare, peu abondant  |
+
+# ANALYSIS TABLE ABOUT THE STUDY
+|                             |                                                                                                                                                                                                                                                                                                    |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?               | Erik Tihelka, Liqin Li, Chenyang Cai, Yanzhe Fu, Yitong Su, Diying Huang                                                                                                                                                                                                                           |
+| Published in ? When ?       | 12 April 2021 in Nature Plants                                                                                                                                                                                                                                                                     |
+| General topic               | Relationship between early flowering plants and early pollinators                                                                                                                                                                                                                                  |
+| Procedure/What was examined | An amber fossil of a Cretaceous beetle has been found and researchers were able to study its fossil faecal matter                                                                                                                                                                                  |
+| Conclusions/Discovery       | The beetle fossil faecal pellets were composed solely of pollen, and it is related to today's Australian beetles that visit a large range of flowers and feeds on their pollen as well. 
+This shows that pollinators took advantage of early angiosperms soon after their initial diversification  |
+| Remaining questions         | None mentioned in the article                                                                                                                                                                                                                                                                      |
