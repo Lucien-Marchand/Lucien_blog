@@ -1,7 +1,7 @@
 ---
 title: "Article 7 : New Jurassic flying reptile reveals the oldest opposed thumb"
 description: |
-  A short description of the post.
+  A new arboreal pterosaur species present a novel structure previously unknown in pterosaurs.
 author:
   - name: Lucien Marchand
     url: {}
@@ -23,6 +23,22 @@ Published on the 12th of April 2021.
 Word count: 510 words
 
 # VOCABULARY
-
+| Word from the text | Synonym/definition in English | French translation |
+| ------------------ | ----------------------------- | ------------------ |
+| to dub             | to give nickname              | surnommer          |
+| novel              | new, different                | nouveau            |
+| thumb              | thickest digit of the hand    | pouce              |
+| forelimb           | animal's front leg            | membre antérieur   |
+| grasping           | holding                       | préhension         |
+| partitioning       | spread                        | répartition        |
+| embedded           | set inside                    | enfoncé            |
 
 # ANALYSIS TABLE ABOUT THE STUDY
+|                             |                                                                                                                                                                                          |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?               | Xuanyu Zhou, Rodrigo V. Pêgas, Waisum Ma, Gang Han, Xingsheng Jin, Maria Eduarda C. Leal, Niels Bonde, Yoshitsugu Kobayashi, Stephan Lautenschlager, Xuefang Wei, Caizhi Shen, Shu’an Ji |
+| Published in ? When ?       | Current Biology, April 12, 2021                                                                                                                                                          |
+| General topic               | A new arboreal pterosaur species present a novel structure previously unknown in pterosaurs                                                                                              |
+| Procedure/What was examined | cro-computed tomography to scan the fossil and study its forelimb morphology and musculature                                                                                             |
+| Conclusions/Discovery       | The pterosaur could have used its hand for grasping thanks to an opposed thumb called "pollex". It provides the earliest evidence of a true opposed thumb                                |
+| Remaining questions         | None mentioned in the article                                                                                                                                                            |

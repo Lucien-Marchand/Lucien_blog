@@ -27,12 +27,12 @@
     "date": "2021-05-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-03T19:56:52+02:00"
+    "last_modified": "2021-05-03T23:22:27+02:00"
   },
   {
     "path": "posts/2021-05-03-article-7/",
     "title": "Article 7 : New Jurassic flying reptile reveals the oldest opposed thumb",
-    "description": "A short description of the post.",
+    "description": "A new arboreal pterosaur species present a novel structure previously unknown in pterosaurs.",
     "author": [
       {
         "name": "Lucien Marchand",
@@ -42,7 +42,7 @@
     "date": "2021-05-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-03T20:01:28+02:00"
+    "last_modified": "2021-05-03T20:59:41+02:00"
   },
   {
     "path": "posts/2020-12-13-article-4/",
@@ -61,7 +61,7 @@
   },
   {
     "path": "posts/2020-12-09-article-3/",
-    "title": "New study confirms the power of Deinosuchus and its 'teeth the size of bananas'",
+    "title": "Article 3 : New study confirms the power of Deinosuchus and its 'teeth the size of bananas'",
     "description": "Alongside dinosaurs lived a giant crocodylian which was able to prey on them.",
     "author": [
       {
@@ -72,12 +72,12 @@
     "date": "2020-12-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-09T18:26:34+01:00"
+    "last_modified": "2021-05-03T21:32:41+02:00"
   },
   {
     "path": "posts/2020-12-09-conclusion/",
     "title": "Conclusion",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lucien Marchand",
@@ -87,12 +87,12 @@
     "date": "2020-12-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-03T20:02:31+02:00"
+    "last_modified": "2021-05-03T23:05:59+02:00"
   },
   {
     "path": "posts/2020-12-09-introdution/",
     "title": "Introdution",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lucien Marchand",
@@ -102,7 +102,7 @@
     "date": "2020-12-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-03T20:02:13+02:00"
+    "last_modified": "2021-05-03T23:05:40+02:00"
   },
   {
     "path": "posts/meal/",

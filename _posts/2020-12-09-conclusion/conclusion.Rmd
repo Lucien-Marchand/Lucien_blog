@@ -1,7 +1,5 @@
 ---
 title: "Conclusion"
-description: |
-  A short description of the post.
 author:
   - name: Lucien Marchand
     url: {}
@@ -15,4 +13,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This is already the end of this journey through time.
+I really enjoyed making this portfolio because it allowed me to learn more about this fascinating subject of prehistoric animals. For example, I didn't know that the growth spurt in the T. Rex was specific to it and its close cousins, or that the tiger shark was so ancient. I did have some knowledge of the Megalodon and Deinosuchus, however, as these are iconic animals known to most people interested in paleozoology.
+
+I hope you enjoyed this portfolio as much as I did and that you discovered a new world, or rather rediscovered the old world!
 

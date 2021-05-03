@@ -1,7 +1,5 @@
 ---
 title: "Introdution"
-description: |
-  A short description of the post.
 author:
   - name: Lucien Marchand
     url: {}
@@ -15,3 +13,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I have always loved the prehistoric period. When I was a kid, I read a lot of books about the origin of life, the evolution of the first animals, and especially about the dinosaurs period. My grandfather often took me to see exhibitions and museums on this subject. Growing up, I always kept this desire to study prehistoric animals, which guided me in my choice of biology studies. With this portfolio, I hope to be able to pass on some of my passion for these animals, and also to continue learning about the fascinating world of prehistory! There are so many things to discover and so many things that will remain forgotten in the past because time has taken its toll, but thanks to fossils we can rediscover certain vestiges of the past. I will cover a variety of topics, from sharks to pterosaurs and even the famous T. rex. 
+
+Thought you knew everything there was to know? Did you know about the existence of a giant shark over 15m long? Did you think that whales and dolphins had all their characteristics from a common ancestor? Do you know what the first animal with opposing thumbs like humans was? 
+All these questions are answered in this portfolio, so let's go on a little journey through time!
