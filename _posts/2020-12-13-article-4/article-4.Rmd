@@ -1,0 +1,56 @@
+---
+title: "Article 4 : T. rex had huge growth spurts, but other dinos grew slow and steady"
+description: |
+  Scientists are trying to find out if the adolescent growth spurt in the T. Rex is common to all sauropods or if it is unique to its closest relatives.
+author:
+  - name: Lucien Marchand
+    url: {}
+date: 12-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+Source of the article : [https://www.sciencedaily.com/releases/2020/11/201124190527.htm]
+
+Published on the 24th of November 2020.
+
+Word count: 1490 words
+
+# VOCABULARY
+| Word from the text | Synonym/definition in English | French translation |
+|------------------- |----------------------------- |--------------------|
+| spurt           | short burst of sth  | poussée, flambée           |
+| awkward         | uncomfortable       | embarrassant               |
+| swath           | strip               | bande, partie              |
+| broad           | wide                | large                      |
+| to sample       | take a specimen     | prélever un échantillon de |
+| adulthood       | maturity            | âge adulte                 |
+| whether         | if                  | si                         |
+| struggle        | difficult endeavour | difficulté, épreuve        |
+| clue            | hint                | indice                     |
+| dozens          | many                | des dizaines               |
+| ostrich         |                     | autruche                   |
+|  nerve-wracking | stressful           | angoissant                 |
+| thigh           | upper leg           | cuisse                     |
+| to spot         | detect              | repérer                    |
+| scarce          | rare, lacking       | rare                       |
+| to lay down     | stabilize           | fixer                      |
+| to peter out    | to diminish         | faiblir                    |
+| offspring       | young of an animal  | un petit                   |
+| towards         | in the direction of | vers                       |
+
+# ANALYSIS TABLE ABOUT THE STUDY
+|                             |                                                                                                                                            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers ?               | Thomas M. Cullen, Juan I. Canale, Sebastián Apesteguía, Nathan D. Smith, Dongyu Hu and Peter J. Makovicky                                  |
+| Published in ? When ?       | Proceedings of the Royal Society B: Biological Sciences, 25 November 2020                                                                  |
+| General topic               | The growth of theropods                                                                                                                    |
+| Procedure/What was examined | growth line in the bones                                                                                                                   |
+| Conclusions/Discovery       | Uneven growth between species, some have a growth spurt in adolescence (like T.Rex), others grow throughout their lives (like allosauroid) |
+| Remaining questions         | still unknown why dinosaurs like T. rex grew the way they did                                                                              |

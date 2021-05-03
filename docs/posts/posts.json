@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2021-05-03-article-5/",
+    "title": "Article 5 : Older than expected: Teeth reveal the origin of the tiger shark",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lucien Marchand",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-03T17:43:08+02:00"
+  },
+  {
+    "path": "posts/2020-12-13-article-4/",
+    "title": "Article 4 : T. rex had huge growth spurts, but other dinos grew slow and steady",
+    "description": "Scientists are trying to find out if the adolescent growth spurt in the T. Rex is common to all sauropods or if it is unique to its closest relatives.",
+    "author": [
+      {
+        "name": "Lucien Marchand",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-03T17:43:22+02:00"
+  },
+  {
     "path": "posts/2020-12-09-article-3/",
     "title": "New study confirms the power of Deinosuchus and its 'teeth the size of bananas'",
     "description": "Alongside dinosaurs lived a giant crocodylian which was able to prey on them.",
